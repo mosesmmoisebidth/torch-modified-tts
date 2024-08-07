@@ -3,7 +3,6 @@ numpy==1.21.6;python_version<"3.10"
 numpy==1.22.4;python_version=="3.10"
 cython==0.29.28
 scipy>=1.4.0
-torchaudio
 soundfile
 librosa==0.8.0
 numba==0.55.1;python_version<"3.10"
